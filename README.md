@@ -10,6 +10,8 @@ The beginning DataFrame after file export had looked like the image below, and n
 
 ![Main_Dataframe.PNG](https://github.com/Cyber-Wolfe/Neural_Network_Charity_Analysis/blob/main/Resources/Captures/Main_Dataframe.PNG)
 
+*Pre-Processing*
+
 * The target of this data set was the "IS-SUCCESSFUL" column of the data set.
 
 * The features would be the rest of the dataset.
@@ -24,3 +26,8 @@ The final DataFrame now looks like the image below after cleaning:
 
 ![Filtered_Dataframe.PNG](https://github.com/Cyber-Wolfe/Neural_Network_Charity_Analysis/blob/main/Resources/Captures/Filtered_Dataframe.PNG)
 
+*Compiling, Training, and Evaluating the Model*
+
+![Layers_neurons.PNG](https://github.com/Cyber-Wolfe/Neural_Network_Charity_Analysis/blob/main/Resources/Captures/Layers_neurons.PNG)
+
+From the image above we can see there were 35 neurons, used across three layers and an activation function of relu, sigmoid, relu and then sigmoid for the 1st,2nd,3rd and output layer respectively.
