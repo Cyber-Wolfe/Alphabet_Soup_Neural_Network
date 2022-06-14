@@ -10,9 +10,9 @@ The purpose of this analysis is to understand whether a neural network can predi
 
 * The features would be the rest of the dataset
 * This is barring EIN, Name, and ASK_AMT becuase they will be removed from the dataset
-* 
+
 ![Target_features.PNG](https://github.com/Cyber-Wolfe/Neural_Network_Charity_Analysis/blob/main/Resources/Captures/Target_features.PNG)
 
 ![Removed_data.PNG](https://github.com/Cyber-Wolfe/Neural_Network_Charity_Analysis/blob/main/Resources/Captures/Removed_data.PNG)
 
-*
+
