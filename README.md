@@ -30,4 +30,6 @@ The final DataFrame now looks like the image below after cleaning:
 
 ![Layers_neurons.PNG](https://github.com/Cyber-Wolfe/Neural_Network_Charity_Analysis/blob/main/Resources/Captures/Layers_neurons.PNG)
 
-From the image above we can see there were 35 neurons, used across three layers and an activation function of relu, sigmoid, relu and then sigmoid for the 1st,2nd,3rd and output layer respectively.
+* From the image above we can see there were 35 neurons, used across three layers and an activation function of relu, sigmoid, relu and then sigmoid for the 1st,2nd,3rd and output layer respectively.
+
+* I was only about to get as high as .7258 even when the tested accuracy had reached .7404 during epoch training.
