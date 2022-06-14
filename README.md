@@ -7,6 +7,11 @@ The purpose of this analysis is to understand whether a neural network can predi
 ## Results
 
 * The target of this data set was the "IS-SUCCESSFUL" column of the data set
-![image](https://user-images.githubusercontent.com/98048665/173664421-e4df5777-7c3a-4468-8f4e-0f84aeba263d.png)]
-* The features would be the rest of the dataset, barring EIN, Name, and ASK_AMT
 
+* The features would be the rest of the dataset
+* This is barring EIN, Name, and ASK_AMT becuase they will be removed from the dataset
+![Target_features.PNG](https://github.com/Cyber-Wolfe/Neural_Network_Charity_Analysis/blob/main/Resources/Captures/Target_features.PNG)
+
+![Removed_data.PNG](https://github.com/Cyber-Wolfe/Neural_Network_Charity_Analysis/blob/main/Resources/Captures/Removed_data.PNG)
+
+*
