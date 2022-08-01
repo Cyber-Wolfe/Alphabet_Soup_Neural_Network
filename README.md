@@ -40,6 +40,6 @@ The final DataFrame now looks like the image below after cleaning:
 
 ## Summary
 
-The overall results were a 73% accruacy after fitting the model with different layers, neurons, acivation functions, epochs and data. The machine learning model probably would have done better if I had a more concrete grasp on the implementation of said models.  Maybe a random-forest model would be better to use or a regression for classification.  Ussing either of those could prove far better because they are made for segementing groups away better.
+The overall results were a 73% accruacy after fitting the model with different layers, neurons, acivation functions, epochs and data. The machine learning model probably would have done better if I had a more concrete grasp on the implementation of said models.  Maybe a random-forest model would be better to use or a regression for classification.  Using either of those could prove far better because they are made for segementing groups more effectively.
 
 
